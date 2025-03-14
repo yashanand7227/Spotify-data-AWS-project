@@ -5,7 +5,7 @@ This project builds a **serverless data pipeline** using AWS services to process
 ---
 
 ## **Architecture Overview**
-![AWS Data Pipeline]
+![AWS Data Pipeline](Spotify AWS Architecture.png)
 
 ### **Pipeline Workflow**
 1. **S3 (Staging)** – Manually uploaded **preprocessed Spotify CSV data**.
